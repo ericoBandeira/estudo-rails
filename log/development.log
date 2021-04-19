@@ -1,0 +1,11 @@
+  [1m[35m (175.9ms)[0m  [1m[35mCREATE DATABASE "contact-list_development" ENCODING = 'unicode'[0m
+  ↳ bin/rails:9
+  [1m[35m (46.0ms)[0m  [1m[35mCREATE DATABASE "contact-list_test" ENCODING = 'unicode'[0m
+  ↳ bin/rails:9
+Started GET "/" for ::1 at 2021-04-19 17:43:31 -0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/erico/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/erico/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.5/lib/rails/templates/rails/welcome/index.html.erb (2.1ms)
+Completed 200 OK in 9ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+
+
